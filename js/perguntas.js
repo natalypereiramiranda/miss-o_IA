@@ -69,58 +69,58 @@ export const perguntas = [
             {
                 texto: "E agora você pode saber qual são os impactos bons da ergonomia para o futuro.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Vem impulsionando a inovação na área de trabalho com a ergonomia.",
+                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos da ergonomia."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Me preocupo com as pessoas que ainda não sabem sobre seus direitos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização sobre os metodos de ergonomia.",
+                    "Criou grupos de ética voltado para ergonomia e busca ativamente reduzir as desigualdades geradas pela aréa de trabalho."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Utilizar informações de bem estar",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a ideia de que a ergonomia pode criar novas oportunidades para que o emprego seja melhorara e eficacia humanas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Vem impulsionando a inovação na área de saúde e luta para abrir novos caminhos profissionais para um bom trabalho.",
+                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em bem estar."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "A importância de proteger os trabalhadores.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação.",
+                    "Desempenho Otimizado: Espaços e ferramentas projetados ergonomicamente permitem que os trabalhadores realizem suas tarefas com mais eficiência e menos esforço. Isso pode resultar em maior produtividade e melhor qualidade do trabalho.",
+                    "Eficiência Energética: A ergonomia pode contribuir para a eficiência energética ao otimizar o design de equipamentos e espaços, o que pode reduzir o consumo de energia e os custos operacionais.",
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Novas tecnologias trazem melhoria para os trabalhadores",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a ideia de que a ergonomia pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA.",
+                    "Vem impulsionando a inovação na área de trabalho com inovações tecnologicas.",
+                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos de eficacia na ergonomia.",
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Me preocupo com as pessoas que ainda n sabem sobre os beneficios da ergonomia.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação.",
+                    "É uma preocupação válida, já que muitos ainda não conhecem os benefícios da ergonomia. Informar e educar é crucial. Promover workshops, distribuir materiais educativos e incorporar a ergonomia nas práticas de trabalho pode ajudar a aumentar a conscientização. A disseminação de informações pode prevenir problemas de saúde e melhorar a qualidade de vida, criando ambientes mais seguros e confortáveis para todos.",
+                    "Prevenção de Lesões Musculoesqueléticas: A ergonomia ajuda a prevenir condições como dor nas costas, síndrome do túnel do carpo e lesões por esforço repetitivo ao projetar ferramentas e ambientes que minimizam o esforço físico e a tensão repet.",
                 ],
                 proxima: 7,
             },
@@ -138,17 +138,17 @@ export const perguntas = [
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Alguns equipamentos utilizados para implantação tecnologica da ergonomia.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação.",
+                    "Cadeiras ErgonômicasAjuste de Altura: Permite que a cadeira seja ajustada para que os pés fiquem planos no chão e os joelhos formem um ângulo de 90 Apoio Lombar: Ofertas Apoios para os Braços: Ajustáveis para apoiar os braços e reduzir a tensão nos ombros e pescoço. Assento Ajustável:Permanente.",
+                    " Mesas Ajustáveis Mesas Reguláveis em Altura: Permitem que o usuário ajuste a altura da mesa para trabalhar sentado ou em pé, promovendo uma postura mais saudável e oferecendo a flexibilidade de alternar entre diferentes posições.Suportes para Monitor:ajuste Mesas AjustáveisMesas Reguláveis em Altura: Permitem que o usuário ajuste a altura da mesa para trabalhar sentado ou em pé, promovendo uma postura mais saudável e oferecendo a flexibilidade de alternar entre diferentes posições Suportes para Monitor:ajuste",
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Tudo sobre os beneficios ",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
